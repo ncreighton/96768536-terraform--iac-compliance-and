@@ -89,6 +89,7 @@ pytest tests/ -v
 MIT
 
 
+
 ---
 
 ## Free vs Pro
@@ -109,8 +110,9 @@ MIT
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://cleargum.gumroad.com/l/frnzz)**
+**[Get Pro Version](https://buy.stripe.com/4gM5kDaDd3o8g887jCcZf3m)**
 
+- [Buy Now (Stripe)](https://buy.stripe.com/4gM5kDaDd3o8g887jCcZf3m)
 - [Buy on Gumroad](https://cleargum.gumroad.com/l/frnzz)
 - [Buy on Whop](https://whop.com/terraform-iac-compliance-and-risk-scoring-api)
 
